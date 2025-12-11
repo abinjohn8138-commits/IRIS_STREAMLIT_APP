@@ -1,4 +1,4 @@
-# IRIS_FLASK_APP
+# IRIS_STREAMLIT_APP
  Iris Classification Flask App
 
 A simple Flask web application that uses a trained machine-learning model to classify Iris flowers into three species:
